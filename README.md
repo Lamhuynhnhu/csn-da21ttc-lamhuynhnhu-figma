@@ -8,5 +8,6 @@
   - Email: nhulam922003@gmail.com
   - Số điện thoại: 0373883863
 ## BÁO CÁO TIẾN ĐỘ ##
--Tìm hiểu và nghiên cứu về tổng quan của đền tài.
--Thực hiện phân tích thiết kế giao diện website.
+ Tuần 2
+- Tham khảo các công cụ trên figma
+- Thực hiện phân tích thiết kế giao diện website.
