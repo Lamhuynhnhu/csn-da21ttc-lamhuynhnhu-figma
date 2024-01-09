@@ -21,6 +21,7 @@ Tuần 3
   
 Tuần 4
 - Thiết kế giao diện 
-- Viết báo cáo và làm silde thuyết trình 
+- Viết báo cáo và làm silde thuyết trình
+  
 Link sản phẩm Figma
 https://www.figma.com/community/file/1325829830386143173
