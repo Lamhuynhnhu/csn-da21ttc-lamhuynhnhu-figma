@@ -25,3 +25,6 @@ Tuần 4
   
 Link sản phẩm Figma
 https://www.figma.com/community/file/1325829830386143173
+
+Slide báo cáo
+https://www.canva.com/design/DAF5ToexrJg/UDzzbuDC6HFTjuU9KmCY5g/edit
